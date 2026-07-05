@@ -3,15 +3,29 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Test Charge
+  - Charge
+  - Wall
+  - Box
+  - Goal
+  - Obstacle
+  - Star
+  - Level
+  - Arrow
+  - UndoManager
+  - Lock
+  - BackgroundMusic
+  - Explosion
+  - TutorialManager
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Ground
+  - MufflerLayer
   - Water
   - UI
-  - Rope
+  - chargeLayer
   - 
   - 
   - 
